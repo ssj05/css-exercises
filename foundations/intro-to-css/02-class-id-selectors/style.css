@@ -1,0 +1,16 @@
+.odd {
+  background-color: rgba(255, 0, 0, 0.3);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#scnd {
+  color: blue;
+  font-size: 36px;
+}
+.odd.big {
+  font-size: 24px;
+}
+#frth {
+  background-color: rgba(0, 255, 0, 0.3);
+  font-size: 24px;
+  font-weight: bold;
+}
